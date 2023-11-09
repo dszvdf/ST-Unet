@@ -8,7 +8,7 @@ This repository contains the codes for paper ***Simulation-trained neural networ
 Fig. 1 Model and method for training the ST-Unet using simulation data. 
 
 ## Usage
-### Download the CASSI-Self-Supervised repository and model file
+### Download the repository and model file
 0. Requirements are Python 3.8 and Pytorch 2.0 
 1. Download this repository via git
 2. Run **STUnet_reconstruct.ipynb** to do reconstruction of one speckle.
