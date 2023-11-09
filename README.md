@@ -3,7 +3,7 @@ This repository contains the codes for paper ***Simulation-trained neural networ
 
 ## Results
 <p align="center">
-<img src="Data/image/Fig1.png" width="600">
+<img src="data/image/Fig1.png" width="600">
 </p>
 Fig. 1 Model and method for training the ST-Unet using simulation data. 
 
