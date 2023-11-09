@@ -3,7 +3,7 @@ This repository contains the codes for paper ***Simulation-trained neural networ
 
 ## Results
 <p align="center">
-<img src="data/image/Fig1.png" width="600">
+<img src="Data/Image/Fig1.png" width="600">
 </p>
 Fig. 1 Model and method for training the ST-Unet using simulation data. 
 
@@ -12,3 +12,7 @@ Fig. 1 Model and method for training the ST-Unet using simulation data.
 0. Requirements are Python 3.8 and Pytorch 2.0 
 1. Download this repository via git
 2. Run **STUnet_reconstruct.ipynb** to do reconstruction of one speckle.
+
+## Download Model
+
+Download Link:https://pan.baidu.com/s/1qdHBJScd0QjOuoa0QajchQ?pwd=2hq7
