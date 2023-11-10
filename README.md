@@ -15,4 +15,3 @@ Fig. 1 Model and method for training the ST-Unet using simulation data.
 
 ## Download Model
 
-Download Link:https://pan.baidu.com/s/1qdHBJScd0QjOuoa0QajchQ?pwd=2hq7
